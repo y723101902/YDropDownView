@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YDropDownView"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "A Drop Down View"
   
   # This description is used to generate tags and improve search results.  #   * Think: What does it do? Why did you write it? What is the focus?
@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "YDropDownView/YDropDownView/*.{h,m}"
+  s.source_files  = "Classes/Classes/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "YDropDownView/*.h"
